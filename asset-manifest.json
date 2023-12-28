@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Tkc2407/Newsify.git/static/css/main.abd64e84.css",
-    "main.js": "/Tkc2407/Newsify.git/static/js/main.275ab388.js",
+    "main.js": "/Tkc2407/Newsify.git/static/js/main.c857a096.js",
     "static/js/787.bd32bd27.chunk.js": "/Tkc2407/Newsify.git/static/js/787.bd32bd27.chunk.js",
     "static/media/loading.gif": "/Tkc2407/Newsify.git/static/media/loading.c3f9794ff1a34caa0fea.gif",
     "index.html": "/Tkc2407/Newsify.git/index.html",
     "main.abd64e84.css.map": "/Tkc2407/Newsify.git/static/css/main.abd64e84.css.map",
-    "main.275ab388.js.map": "/Tkc2407/Newsify.git/static/js/main.275ab388.js.map",
+    "main.c857a096.js.map": "/Tkc2407/Newsify.git/static/js/main.c857a096.js.map",
     "787.bd32bd27.chunk.js.map": "/Tkc2407/Newsify.git/static/js/787.bd32bd27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.275ab388.js"
+    "static/js/main.c857a096.js"
   ]
 }
